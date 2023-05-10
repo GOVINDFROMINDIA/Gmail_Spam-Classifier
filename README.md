@@ -14,3 +14,7 @@ Finally, the program displays the predicted label (spam or non-spam) in the GUI 
 I have designed the gui part in tkinter and have also used message box.
 Buttons have been designed using https://icons8.com
 Have implemented the Naive Bayes system long with [Aiswarya Anil Nair](https://github.com/aan2907)
+
+### OUTPUT
+
+![WhatsApp Image 2023-05-10 at 16 12 59](https://github.com/GOVINDFROMINDIA/Gmail_Spam-Classifier/assets/79012314/cdd767c7-c0d6-4570-b046-c02be45b4c11)
